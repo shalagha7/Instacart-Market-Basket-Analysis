@@ -15,7 +15,7 @@ In the ever-evolving world of e-commerce, understanding customer purchasing beha
 
 ## Dataset 📊
 
-The dataset used in this project is sourced from [Instacart](https://www.instacart.com/datasets/grocery-shopping-2017), which includes millions of orders from over 200,000 users, detailing what products were purchased together. Key files include:
+The dataset used in this project is sourced from [Instacart] https://www.kaggle.com/competitions/instacart-market-basket-analysis/data, which includes millions of orders from over 200,000 users, detailing what products were purchased together. Key files include:
 
 - `orders.csv`: Information about user orders.
 - `order_products__prior.csv`: Details of products in previous orders.
